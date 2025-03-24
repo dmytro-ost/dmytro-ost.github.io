@@ -1,0 +1,1 @@
+:root{--cell-width: 75px}body{margin:0;padding:0}*{box-sizing:border-box}@media screen and (max-width: 550px){:root{--cell-width: calc((100vw - 10px)/5) }}
